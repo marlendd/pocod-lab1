@@ -1,0 +1,1 @@
+Состояния файлов Git: untracked, staged, committed, modified.
