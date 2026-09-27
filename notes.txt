@@ -1,1 +1,2 @@
 Состояния файлов Git: untracked, staged, committed, modified.
+Основной цикл работы: изменение – git add – git commit – git push.
